@@ -1,0 +1,6 @@
+{
+  "name": "KrishiSalah",
+  "description": "Weather-Smart Tomato Crop Advisor for Indian Farmers",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
